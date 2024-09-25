@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sergio1616
 - 👀 I’m interested in Home assistant 
-- 🌱 I’m currently learning intégrations 
+- 🌱 I’m currently learning repositories
 - 💞️ I’m looking to collaborate on automation
 - 📫 How to reach me ...
 
